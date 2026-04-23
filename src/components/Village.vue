@@ -543,7 +543,9 @@ export default {
       getOtherAvailableQuests,
       setActiveQuest,
       hasNewStoryScenes,
-      newStoryCount
+      newStoryCount,
+      getStoragePercentage,
+      isStorageNearFull
     }
   }
 }
